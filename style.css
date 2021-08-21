@@ -1,0 +1,74 @@
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.half-width{
+  width: 40%;
+  margin-left: 5%;
+  padding-left: 2%;
+  float: left;
+}
+.half-width img{
+  width: 108%;
+  padding-top: 40px;
+}
+.top-sec{
+  height: 300px;
+  background-image: url('footer-bg.png') ;
+  background-repeat: no-repeat;
+}
+
+.btn{
+  color: white;
+  background: tomato;
+  border-radius: 5px;
+  text-decoration: none;
+  padding: 5px 20px;
+
+}
+.middle{
+  height: 300px;
+  background-image: url('biography-bg.png');
+  background-repeat: no-repeat;
+}
+
+*{
+  box-sizing: border-box;
+}
+.my-works{
+  background-image: url('biography-bg.png');
+  background-repeat: no-repeat;
+  height: 200px;
+}
+.row{
+  margin-left: 25px;
+  
+}
+.clm{
+  width: 25%;
+  float: left;
+  margin:  10px;
+  
+}
+.clm img{
+  width: 100% ;
+  
+}
+.box{
+  
+  
+}
+.button{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  margin-top: 50px;
+  background: #f4317b;
+  border-radius: 6px;
+  padding:15px 25px ;
+}
+.button p , h5{
+  text-decoration: none;
+  color: white;
+}
